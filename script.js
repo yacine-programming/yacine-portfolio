@@ -314,7 +314,7 @@ function renderJourney() {
       <div class="timeline-date">${escape(item.date)}</div>
       <h3 class="timeline-title">${escape(item.title)}</h3>
       <div class="timeline-org">${escape(item.org)}</div>
-      <p class="timeline-desc">${escape(item.desc)}</p>
+      <p class="timeline-desc">${escape(item.description)}</p>
     </div>
   `).join('');
   observeReveals();

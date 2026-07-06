@@ -77,8 +77,8 @@ const DATA = {
     // Mets un mot en italique avec des astérisques. Ex : "avec *rigueur*"
     titre: "Du capteur au cloud, avec *rigueur*.",
 
-    bio1: "Ingénieur en Systèmes Embarqués diplômé de l'USTHB (2025), je suis passionné par la conception de systèmes intelligents qui relient le matériel et l'intelligence artificielle.",
-    bio2: "Mon expertise couvre la chaîne embarquée complète : interfaçage de capteurs avec microcontrôleurs (ESP32, STM32, Arduino), protocoles de communication (SPI, I2C, CAN, UART, LoRa, Wi-Fi, GSM), développement IoT et IA embarquée (Edge AI). Aujourd'hui, je cherche à mener des projets innovants au sein d'une équipe ambitieuse.",
+    bio1: "Ingénieur en Systèmes Embarqués diplômé de l'USTHB (2026), je suis passionné par la conception de solutions électroniques innovantes, intégrant les systèmes embarqués, l'IoT, les communications, l'intelligence artificielle embarquée et les technologies connectées.",
+    bio2: "Mon expertise couvre l'ensemble de la chaîne embarquée : conception et développement de systèmes électroniques, conception de PCB, maintenance et diagnostic de cartes électroniques, interfaçage de capteurs avec microcontrôleurs (ESP32, STM32, Arduino), protocoles de communication (SPI, I2C, CAN, UART, LoRa, Wi-Fi, GSM), développement IoT et intelligence artificielle embarquée (Edge AI).",
 
     // Les 4 cartes Bento
     carteLocalisation: {
@@ -272,7 +272,7 @@ const DATA = {
 
     etapes: [
       {
-        date: '2023 — 2025',
+        date: '2024 — 2026',
         titre: "Diplôme d'Ingénieur · Master 2 en Systèmes Embarqués",
         organisation: "USTHB · Université des Sciences et de la Technologie Houari Boumediene, Alger",
         description: "Projet de Fin d'Études (PFE) : TomatoGuard — station météo intégrant de l'IA embarquée pour la détection précoce des maladies de la tomate.",
@@ -284,16 +284,16 @@ const DATA = {
         description: "Diagnostic, maintenance et réparation de cartes et systèmes électroniques en environnement industriel.",
       },
       {
-        date: '2020 — 2023',
+        date: '2020 — 2024',
         titre: 'Licence · Systèmes Embarqués / Électronique',
         organisation: 'USTHB, Alger',
         description: "Projet de Fin de Cycle (PFC) : station météo complète. Bases solides en électronique analogique et numérique, microcontrôleurs et systèmes embarqués.",
       },
       {
         date: '2023',
-        titre: 'Technicien Électronique (Stage)',
+        titre: 'Technicien en Maintenance de Cartes Électroniques (Stage)',
         organisation: 'Atelier de Réparation Électronique, Alger',
-        description: "Réparation de cartes mères TV : diagnostic et remise en état des étages d'alimentation et de contrôle. Techniques de mesure, dépannage au composant et soudure de précision.",
+        description: "Diagnostic, maintenance et réparation de cartes électroniques de téléviseurs, notamment des cartes d'alimentation (SMPS) et des cartes de commande (Main Board). Détection des pannes, remplacement de composants électroniques, utilisation d'instruments de mesure (multimètre, oscilloscope), soudure et dessoudure de composants, validation des réparations et remise en service des équipements.",
       },
       {
         date: '2020',
