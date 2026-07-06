@@ -335,7 +335,7 @@ const DATA = {
       boutonEnvoyer: 'Envoyer',
       note: "Ouvre votre client email avec un message pré-rempli.",
       placeholderNom: ' Entrez votre nom',
-      placeholderEmail: 'Entrez_votre_Email@company.com',
+      placeholderEmail: 'Votre_Email@company.com',
       placeholderSujet: 'Opportunité, projet, question…',
       placeholderMessage: 'Parlez-moi de votre projet…',
     },
