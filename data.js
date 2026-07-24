@@ -91,7 +91,7 @@ const DATA = {
     },
     carteDiplome: {
       valeur: "Diplôme d'Ingénieur",
-      sousValeur: 'USTHB · 2025',
+      sousValeur: 'USTHB · 2026',
     },
     carteStatut: {
       valeur: 'Disponible',
